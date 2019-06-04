@@ -1,6 +1,6 @@
 //
 //  RootView.swift
-//  Distortvid
+//  Template
 //
 //  Created by Chris Bogie on 2019-05-28.
 //  Copyright © 2019 Chris Bogie. All rights reserved.
