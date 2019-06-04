@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class Pad {
+struct Pad {
     static var small: CGFloat { get { return 5 } }
     static var medium: CGFloat { get { return 10 } }
     static var large: CGFloat { get { return 15 } }
