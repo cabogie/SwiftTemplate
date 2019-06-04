@@ -81,8 +81,8 @@
 		70388FEF2296343800CCF0EF /* Template */ = {
 			isa = PBXGroup;
 			children = (
-				702527CE229DFC2200ECF212 /* Style.swift */,
 				70388FF02296343800CCF0EF /* AppDelegate.swift */,
+				702527CE229DFC2200ECF212 /* Style.swift */,
 				702527DF229F8A1700ECF212 /* Root View */,
 				70388FF72296343B00CCF0EF /* Assets.xcassets */,
 				70388FF92296343B00CCF0EF /* LaunchScreen.storyboard */,
